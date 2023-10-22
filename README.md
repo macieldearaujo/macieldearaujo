@@ -13,3 +13,8 @@
 <a href="https://www.instagram.com/douglas.m.araujo/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/douglas-maciel-de-ara%C3%BAjo-350928225/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<div>
+  <h2>Here is my website projects:</h2>
+  <a>https://macieldearaujo.github.io/javascript-amazon-project/</a>
+</div>
