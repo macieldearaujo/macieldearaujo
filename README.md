@@ -18,5 +18,8 @@
 
 <div>
   <h2>Here is my website projects:</h2>
-  <a>https://macieldearaujo.github.io/javascript-amazon-project/</a>
+  <ul>
+    <li><a href="https://macieldearaujo.github.io/javascript-amazon-project/">Amazon project</a></li>
+    <li><a href="https://macieldearaujo.github.io/imc-projeto/">BMI calculator (Portuguese version)</a></li>
+  </ul>
 </div>
