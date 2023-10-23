@@ -13,7 +13,6 @@
 </div>
 
   ##
-
 <div>
 <a href="https://www.linkedin.com/in/douglas-maciel-de-ara%C3%BAjo-350928225/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
@@ -23,5 +22,7 @@
   <ul>
     <li><a href="https://macieldearaujo.github.io/javascript-amazon-project/">Amazon project</a></li>
     <li><a href="https://macieldearaujo.github.io/imc-projeto/">BMI calculator (Portuguese version)</a></li>
+    <li><a href="https://macieldearaujo.github.io/tic-tac-toe/">Tic-tac-toe</a></li>
+    <li><a href="https://macieldearaujo.github.io/tic-tac-toe/">Stopwatch light version</a></li>
   </ul>
 </div>
