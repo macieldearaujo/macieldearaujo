@@ -1,5 +1,7 @@
 ## Hi there, I'm brazilian and I'm Douglas
-<a href="https://imgur.com/cJHoi7x"><img src="https://i.imgur.com/cJHoi7x.png" title="source: imgur.com" /></a>
+<img src="https://raw.githubusercontent.com/macieldearaujo/douglasmcl/main/github-header.png" alt="Descrição da imagem">
+
+
 <div style="display: inline_block"><br>
 
 <p>I'm a computer science student with a keen interest in programming. Currently, I'm focusing on learning JavaScript, Git, HTML, and CSS. I also have a passion for design, which allows me to create visually appealing and user-friendly interfaces.</p>
@@ -13,7 +15,6 @@
 
 <div>
 <a href="https://www.instagram.com/douglas.m.araujo/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/douglas-maciel-de-ara%C3%BAjo-350928225/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <div>
