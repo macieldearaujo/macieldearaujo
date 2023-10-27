@@ -4,11 +4,12 @@
 
 <div style="display: inline_block"><br>
 
-<p>I'm a computer science student with a keen interest in programming. Currently, I'm focusing on learning HTML, CSS, JavaScript, Git and React. I also have a passion for design, which allows me to create visually appealing and user-friendly interfaces.</p>
+<p>I'm a computer science student with a keen interest in programming. Currently, I'm focusing on learning HTML, CSS, JavaScript, Git and Node I also have a passion for design, which allows me to create visually appealing and user-friendly interfaces.</p>
 <p>While I initially started my journey with a focus on front-end technologies, I have plans to expand my knowledge and skills towards the backend. I have a strong desire to understand how systems and servers work, as well as how data is processed and stored behind-the-scenes in a web application. I'm excited to learn more about languages and technologies associated with backend development, such as Java, databases and cybersecurity :).</p>
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg">
 </div>
 
