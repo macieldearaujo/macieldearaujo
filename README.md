@@ -1,5 +1,9 @@
-## Hi there, I'm brazilian and I'm Douglas
+<div align="center" >
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=600&color=F7F40C&background=3B633E&center=true&vCenter=true&random=false&width=1200&height=70&lines=%3CI+am+a+front-end+developer%3E;I+am+proud+to+be+brazilian;and+I+am+Douglas)](https://git.io/typing-svg)
+  
 <img src="https://raw.githubusercontent.com/macieldearaujo/douglasmcl/main/github-header.png" alt="Descrição da imagem">
+</div>
 
 
 <div style="display: inline_block"><br>
