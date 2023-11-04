@@ -23,7 +23,7 @@
 </div>
 
 <div>
-  <h2>Here is my website projects:</h2>
+  <h2>Here you can acess my website projects 🔌:</h2>
   <ul>
     <li><a href="https://macieldearaujo.github.io/javascript-amazon-project/">Amazon project</a></li>
     <li><a href="https://macieldearaujo.github.io/imc-projeto/">BMI calculator (Portuguese version)</a></li>
