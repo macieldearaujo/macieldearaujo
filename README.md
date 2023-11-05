@@ -29,5 +29,6 @@
     <li><a href="https://macieldearaujo.github.io/imc-projeto/">BMI calculator (Portuguese version)</a></li>
     <li><a href="https://macieldearaujo.github.io/tic-tac-toe/">Tic-tac-toe</a></li>
     <li><a href="https://macieldearaujo.github.io/tic-tac-toe/">Stopwatch light version</a></li>
+    <li><a href="https://macieldearaujo.github.io/digital-calculator/">Digital Calculator</a></li>
   </ul>
 </div>
