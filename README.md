@@ -17,6 +17,7 @@
   <img align="center" alt="REACT.JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg">
 </div>
+<br>
 <div>
 <a href="https://www.linkedin.com/in/douglas-maciel-de-ara%C3%BAjo-350928225/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
