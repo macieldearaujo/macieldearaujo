@@ -30,5 +30,6 @@
     <li><a href="https://macieldearaujo.github.io/tic-tac-toe/">Tic-tac-toe</a></li>
     <li><a href="https://macieldearaujo.github.io/stopwatch/">Stopwatch light version</a></li>
     <li><a href="https://macieldearaujo.github.io/digital-calculator/">Digital Calculator</a></li>
+    <li><a href="https://macieldearaujo.github.io/calculator-v.2/">Digital Calculator - V.2</a></li>
   </ul>
 </div>
