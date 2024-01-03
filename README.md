@@ -31,6 +31,6 @@
     <li><a href="https://macieldearaujo.github.io/stopwatch/">Stopwatch light version</a></li>
     <li><a href="https://macieldearaujo.github.io/digital-calculator/">Digital Calculator</a></li>
     <li><a href="https://macieldearaujo.github.io/calculator-v.2/">Digital Calculator - V.2</a></li>
-    <li><a href="https://macieldearaujo.github.io/cpf-validador/">Validador de CPF (03/01/2024)</a></li>
+    <li><a href="https://macieldearaujo.github.io/cpf-validador/">Validador de CPF (01/03/2024)</a></li>
   </ul>
 </div>
