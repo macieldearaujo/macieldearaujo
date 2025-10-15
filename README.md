@@ -1,19 +1,20 @@
-<h2 align="left">Olá 👋! Meu nome é Douglas e sou desenvolvedor</h2>
-
-###
-
-<img align="right" height="100" src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=macieldearaujo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=macieldearaujo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center" >
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=600&color=0B5A0C&background=FFFFFF00&center=true&vCenter=true&random=false&width=1200&height=70&lines=%3CI+am+a+developer%3E;too+proud+to+be+brazilian;and+I+am+Douglas)](https://git.io/typing-svg)
+  
+<img src="https://github.com/macieldearaujo/macieldearaujo/blob/main/header-github%20(1).jpg?raw=true" alt="Descrição da imagem" height="550em">
 </div>
 
-###
 
-<div align="left">
+<div style="display: inline_block"><br>
+
+<p>I'm a Computer Science student passionate about automation, data analysis, and software development. Over time, I’ve evolved from front-end experiments to building end-to-end solutions that make processes smarter and more efficient.
+
+I have hands-on experience with Python, SQL, Angular, Java, and Docker, as well as automation scripts and dashboards that turn raw data into real insights. I’m also comfortable working with DevOps practices and agile methodologies like Scrum and Kanban.
+
+My background in industrial automation has shaped the way I think about efficiency and systems integration — I enjoy connecting technology and business to improve workflows and decision-making.
+
+Currently, I’m focused on deepening my skills in data engineering and process automation, and I’m always looking for new challenges that let me combine programming, data, and automation to create real impact..</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
@@ -47,28 +48,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+<br>
+<div>
+<a href="https://www.linkedin.com/in/douglas-maciel-de-ara%C3%BAjo-350928225/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-###
-
-<div align="center">
-  <a href="mailto:douglasmacielaraujo@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/macieldearaujo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/5511958726955" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
+<div>
+  <h2>Here you can acess my website projects 🔌:</h2>
+  <ul>
+    <li><a href="https://macieldearaujo.github.io/javascript-amazon-project/">Amazon project</a></li>
+    <li><a href="https://macieldearaujo.github.io/imc-projeto/">BMI calculator (Portuguese version)</a></li>
+    <li><a href="https://macieldearaujo.github.io/tic-tac-toe/">Tic-tac-toe</a></li>
+    <li><a href="https://macieldearaujo.github.io/stopwatch/">Stopwatch light version</a></li>
+    <li><a href="https://macieldearaujo.github.io/digital-calculator/">Digital Calculator</a></li>
+    <li><a href="https://macieldearaujo.github.io/calculator-v.2/">Digital Calculator - V.2</a></li>
+    <li><a href="https://macieldearaujo.github.io/cpf-validador/">Validador de CPF (01/03/2024)</a></li>
+  </ul>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/macieldearaujo/macieldearaujo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/macieldearaujo/macieldearaujo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/macieldearaujo/macieldearaujo/output/pacman-contribution-graph.svg">
-</picture>
-
-###
